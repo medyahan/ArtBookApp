@@ -59,9 +59,9 @@ ArtBookApp is an iOS application designed for users to save, manage, and edit th
 
 ### Home Screens
 <p align="center">
-    <img src="screenshots/home-screen-1.png" alt="Home Screen 1" width="200"/>
-    <img src="screenshots/home-screen-2.png" alt="Home Screen 2" width="200"/>
-    <img src="screenshots/home-screen-3.png" alt="Home Screen 3" width="200"/>
+    <img src="screenshots/home-screen.png" alt="Home Screen 1" width="200"/>
+    <img src="screenshots/home-screen-search.png" alt="Home Screen 2" width="200"/>
+    <img src="screenshots/home-screen-sort.png" alt="Home Screen 3" width="200"/>
 </p>
 
 ### Add Place Screens
