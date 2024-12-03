@@ -66,8 +66,8 @@ ArtBookApp is an iOS application designed for users to save, manage, and edit th
 
 ### Add Place Screens
 <p align="center">
-    <img src="screenshots/add-place-1.png" alt="Add Place Screen 1" width="200"/>
-    <img src="screenshots/add-place-2.png" alt="Add Place Screen 2" width="200"/>
+    <img src="screenshots/add-place-screen-1.png" alt="Add Place Screen 1" width="200"/>
+    <img src="screenshots/add-place-screen-2.png" alt="Add Place Screen 2" width="200"/>
 </p>
 
 ### Place Details and Map Screens
