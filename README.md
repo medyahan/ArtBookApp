@@ -55,6 +55,29 @@ ArtBookApp is an iOS application designed for users to save, manage, and edit th
      
 ---
 
+## Screenshots
+
+### Home Screens
+<p align="center">
+    <img src="screenshots/home-screen-1.png" alt="Home Screen 1" width="200"/>
+    <img src="screenshots/home-screen-2.png" alt="Home Screen 2" width="200"/>
+    <img src="screenshots/home-screen-3.png" alt="Home Screen 3" width="200"/>
+</p>
+
+### Add Place Screens
+<p align="center">
+    <img src="screenshots/add-place-1.png" alt="Add Place Screen 1" width="200"/>
+    <img src="screenshots/add-place-2.png" alt="Add Place Screen 2" width="200"/>
+</p>
+
+### Place Details and Map Screens
+<p align="center">
+    <img src="screenshots/details-screen.png" alt="Place Details" width="200"/>
+    <img src="screenshots/map-screen.png" alt="Map Screen" width="200"/>
+</p>
+
+---
+
 ## Installation
 1. Clone the project to your local machine:
    ```bash
